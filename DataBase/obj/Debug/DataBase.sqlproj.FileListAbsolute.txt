@@ -1,0 +1,8 @@
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\bin\Debug\DataBase.dacpac
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\DataBase.sqlproj.AssemblyReference.cache
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\Model.xml
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\refactor.xml
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\postdeploy.sql
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\predeploy.sql
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\DataBase.dll
+C:\Exercicios Udemy C#\TesteUXComex\DataBase\DataBase\obj\Debug\DataBase.pdb
